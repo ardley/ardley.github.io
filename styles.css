@@ -12,7 +12,16 @@ body, html {
     color: white;
     font-family: "Courier New", Courier, monospace;
     font-size: 25px;
+    opacity:0.5;
 }
+
+.darkness{
+    height: 100%
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    color:black;
+
 
 .topleft {
     position: absolute;
