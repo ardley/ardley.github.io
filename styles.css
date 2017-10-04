@@ -15,13 +15,13 @@ body, html {
     opacity:0.5;
 }
 
-.darkness{
+.darkness {
     height: 100%
     background-position: center;
     background-size: cover;
     position: relative;
     color:black;
-
+}
 
 .topleft {
     position: absolute;
