@@ -45,6 +45,7 @@ body, html {
 }
 
 .transparentlogo {
+    position: absolute;
     background-image: url('/logotransparent.png');
     background-size: 150px Auto;
 }
