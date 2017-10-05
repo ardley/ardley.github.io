@@ -9,8 +9,6 @@ body, html {
     background-position: center;
     background-size: cover;
     position: relative;
-    font-family: "Work Sans", Courier, monospace;
-    font-size: 25px;
     opacity:0.9;
 
 }
@@ -21,6 +19,8 @@ body, html {
     background-size: cover;
     position: relative;
     background-color:black;
+    font-family: "Work Sans", Courier, monospace;
+    font-size: 25px;
     color:white;
 }
 
