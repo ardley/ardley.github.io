@@ -44,7 +44,15 @@ body, html {
     text-align: center;
 }
 
+.transparentlogo {
+    background-image: url('/logotransparent.png');
+    background-size: 150px Auto;
+}
+
+
+
 hr {
     margin: auto;
     width: 40%;
 }
+
